@@ -23,4 +23,3 @@ end
 ## resources → Rails7大アクション(index, show, new, create, edit, update, destroy)
 ## :comments → commentsコントローラー
 ## only: [:create] → Rails7大アクションのうち、createのみを使用
-## tweets
